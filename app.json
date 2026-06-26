@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "TopStories",
+    "slug": "top-stories",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://img.icons8.com/fluency/256/news.png",
+    "splash": {
+      "image": "https://img.icons8.com/fluency/256/news.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2563EB"
+    },
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "https://img.icons8.com/fluency/256/news.png",
+        "backgroundColor": "#2563EB"
+      }
+    }
+  }
+}
