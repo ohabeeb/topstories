@@ -17,6 +17,15 @@
       "adaptiveIcon": {
         "foregroundImage": "https://img.icons8.com/fluency/256/news.png",
         "backgroundColor": "#2563EB"
+      },
+      "package": "com.onstack.topstories"
+    },
+    "plugins": [
+      "expo-build-properties"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "9756d245-a32f-4a5e-aca2-0ed66d4c7874"
       }
     }
   }
